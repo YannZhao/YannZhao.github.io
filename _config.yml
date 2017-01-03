@@ -10,14 +10,14 @@ url: "http://www.jack003.com"
 
 # author
 author:
-  name: 'Jack'
-  first_name: 'Jia'
-  last_name: 'Kun'
-  email: 'me@jack003.com'
-  facebook_username: 'jiakunnj'
-  github_username: 'JiaKunUp'
-  avatar: 'static/img/landing/Jack.jpg'
-  desc: 'I am a Full Stack engineer with website development, automation Ops and writing scripts experience. Life is a continuous learning process, so work makes me more rigorous, travel makes my life more colorful. I can make lots of friends when I coding and travel.'
+  name: 'Yann'
+  first_name: 'Zhao'
+  last_name: 'QiYang'
+  email: 'qiyang0114@gmail.com'
+  facebook_username: ''
+  github_username: 'YannZhao'
+  avatar: 'static/img/landing/yann-zhao.jpg'
+  desc: 'I am a Android Application Development Engineer at present,And I used to be a Android Source Development Engineer as I worked for a IDH(Independent Design House) company two years ago. All in all I work with Android for five years already. I think life is a process of learning, not only on the Knowledge and skills, but also the spiritual aspect. there tree things deep inside me: Faith, Lova, Hope. Faith is the source where confidence comes, and love is the instrument overcome difficulties and obstacles, live with hope, I would not hesitate go forward! '
 
 # comment
 changyan:
