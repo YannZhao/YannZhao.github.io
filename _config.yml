@@ -24,12 +24,12 @@ changyan:
   # appid: cysfY7ULn
   # conf: prod_861928934cecb7a18e15bedaed9dae29
 disqus:
-  name: jalpc
-  public_key: tj2MPaNlHMONwTH5bGDNSXyaBpW7q282MeUzh5CwcjJerNhK8Kxk3aWo7IckzTX7
+  name: yannzhao
+  public_key: pTuWiBrSDNZo5BM4yWtW1CqqDwZyEhW5A9OoaRCtrx1VyzP4rVCybhZPll2KFeC8
 
 # share
 bshare:
-  uuid: 513f778e-a8f7-4c20-9ec2-d29cc2328d75
+  uuid: d644820f-7127-4d8e-b2b9-be95b3e8d886
 
 # baidu analytics
 ba:
