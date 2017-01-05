@@ -1,54 +1,54 @@
 # careers section data
 - name:
-    detail: Nextcode
-    i18n: nextcode
+    detail: HuaDong Media
+    i18n: huadong_media
   desc:
-    detail: Now I am in Nextcode and develop website with Python code for genetic analysis.
-    i18n: nextcode_des
+    detail: Now I am in HuaDong Media,take the position of senior engineer，and the responsibility for development of application which has more than one million DAU.
+    i18n: huadong_des
   date:
-    detail: Apr. 2016
-    i18n: nextcode_date
+    detail: Jun. 2015
+    i18n: huadong_date
   job:
-    detail: Python Developer
-    i18n: nextcode_job
+    detail: Android Senior Engineer
+    i18n: huadong_job
   icon: fa-plus-square
 
 - name:
-    detail: Netease Game
-    i18n: netease
+    detail: Sand
+    i18n: snad
   desc:
-    detail: In Netease game, I learned game service system and use Python code for ops.
-    i18n: netease_des
+    detail: In Sand, I was responsibility for development of application which helps feild staffs to fulfill their tasks, kind of management software.
+    i18n: sand_des
   date:
-    detail: Jun. 2015
-    i18n: nextcode_date
+    detail: Feb. 2015
+    i18n: sand_date
   job:
-    detail: Dev Ops
-    i18n: netease_job
-  icon: fa-gamepad
+    detail: Android Senior Engineer
+    i18n: sand_job
+  icon: fa-money
 
 - name:
-    detail: Ucloud
-    i18n: ucloud
+    detail: Dewav
+    i18n: dewav
   desc:
-    detail: In ucloud, I started to deal with servers and Linux system and use shell scripts to manage massive server.
-    i18n: ucloud_des
+    detail: In Dewav, which is a well known IDH company, I started to deal with android source code.
+    i18n: dewav_des
   date:
     detail: Sep. 2013
-    i18n: ucloud_date
+    i18n: dewav_date
   job:
-    detail: Dev Ops
-    i18n: ucloud_job
-  icon: fa-cloud
+    detail: Android Engineer
+    i18n: dewav_job
+  icon: fa-phone
 
 - name:
     detail: Graduation
     i18n: college
   desc:
-    detail: At July 2013,I graduated from college and started my IT technology tour.
+    detail: At June 2012,I graduated from college and started my Android technology tour.
     i18n: college_des
   date:
-    detail: Jul. 2013
+    detail: Jun. 2012
     i18n: college_date
   job:
     detail: Student
