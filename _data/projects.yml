@@ -1,7 +1,7 @@
 # projects section data
 - name: 'OverlapViewPager'
   i18n: 'overlapviewpager'
-  url: 'YannZhao/OverlapViewPager'
+  url: '/YannZhao/OverlapViewPager'
   img: 'static/img/landing/overlapviewpager.png'
   desc: 'OverlapViewPager is a simple customized ViewGroup which works like a overlap viewpager, there three pages:left、middle、right.'
 #- name: 'Saplatform'
