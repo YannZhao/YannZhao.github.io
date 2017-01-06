@@ -20,7 +20,7 @@
   },
   "projects":{
     "my_projects": "我的项目",
-    "overlapviewpager" : "overlapViewPager是一个简单的自定义ViewGroup，使用时像是一个左右能折叠到中间的ViewPagger。"
+    "overlapviewpager" : "overlapViewPager是一个简单的自定义ViewGroup，使用时像是一个左右能折叠到中间的ViewPager。"
   },
   "career":{
     "my_career": "职业生涯",
