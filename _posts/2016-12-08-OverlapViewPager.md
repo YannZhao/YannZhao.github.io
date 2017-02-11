@@ -134,6 +134,7 @@ Overlap，顾名思义，是一个page可以重叠的的ViewPager，一共有左
 	...
 	
 ### 最终效果
+
 ##### 向右划
 <img src="/static/img/blog/overlapviewpager/right_slide.gif" width="50%" height="50%">
 
