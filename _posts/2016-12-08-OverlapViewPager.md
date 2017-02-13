@@ -99,7 +99,7 @@ protected void onLayout(boolean changed, int l, int t, int r, int b) {
     }
 }
 ```
-
+    
 #### 	3.滑动
 当前页是中间页时，在onTouchEvent中根据x轴移动数据判断滑动方向、滑动的child以及计算出offset，对应的view再进行移动。
 
