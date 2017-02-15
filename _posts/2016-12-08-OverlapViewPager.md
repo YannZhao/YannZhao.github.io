@@ -7,16 +7,16 @@ date: 2016-12-08
 categories: [Android]
 tags: [android, Customize, ViewPager]
 ---
-### 写在前面
+# 写在前面
 Overlap，顾名思义，是一个page可以重叠的的ViewPager，一共有左中右三页，中间页固定，左右两边的page分别可以划出重叠到中间。话不多说，下面开始。
 
-### 实现思路
+# 实现思路
 自定义一个ViewGroup，往其中添加3个child；按照左中右的顺序，在onLayout中，设置好children的位置；在从左往右划动的时候，找到被drag的child，通过Scroller，根据手指的滑动距离，把对应的child移动相应的位置；有对滑动速度的检测，超过阈值就触发完全覆盖，以及对松手时滑动距离的阈值检测，判断是还原还是覆盖。见下图：
 
 <img src="/static/img/blog/overlapviewpager/layout.png" width="50%" height="50%">
 
 
-#### 1.一些重要的常量
+## 1.一些重要的常量
 ```java
     public static final int PAGE_LEFT = -1; //left page 标识
     
@@ -39,7 +39,7 @@ Overlap，顾名思义，是一个page可以重叠的的ViewPager，一共有左
     private int mCurrentMovedItemIndex = Integer.MIN_VALUE;
 ```
 
-#### 2.添加child
+## 2.添加child
 
 ```java
 public void addViews(View[] views) {
@@ -100,7 +100,7 @@ protected void onLayout(boolean changed, int l, int t, int r, int b) {
 }
 ```
     
-#### 	3.滑动
+## 	3.滑动
 当前页是中间页时，在onTouchEvent中根据x轴移动数据判断滑动方向、滑动的child以及计算出offset，对应的view再进行移动。
 
 ```java
