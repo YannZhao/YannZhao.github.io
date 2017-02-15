@@ -7,12 +7,12 @@ date: 2016-2-15
 categories: [Android]
 tags: [android, Notification, System]
 ---
-# 起因
+### 起因
 很久之前接到一个需求，需要在通知栏常驻一个notification，title和subtitle都比较短，在末尾加一个类似数据状态的提示。常驻notification很简单，通过service发送一个前台服务就可以了，自定义RemoteViews也很简单，写好对应的layout就好了，大体样式可以做的跟系统的notification差不多。
 
 但是发现做完之后，在各种手机上的performance相差很多，特别是小米的，简直奇丑无比，除非把整个色块全都上色，类似360那种。出于强迫症，十分想把这个notification做的跟系统一个样式，这样可以适配各大手机。于是开始对系统源码以及hierarchyViewer进行分析。
 
-###分析
+### 分析
 > 1. 通过hierarchyViewer，理清楚SystemUI中notification item的视图结构；查找源码了解到对应layout的布局情况。
 > 2. 如果可以保留notification原本的layout，然后整体添加到新的layout中，即可保留系统样式，
 > 3. 然后往新的layout中添加显示数据状态的view。
