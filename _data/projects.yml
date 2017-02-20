@@ -9,6 +9,11 @@
   url: '/YannZhao/MVP-ViewModel'
   img: 'static/img/landing/mvpvm_icon.png'
   desc: 'MvpVm-ViewModel is a framework of android application development, based on MVP and ViewModel. The purpose is to help developer to build apps in a structured way easily. '
+  - name: 'YSpinner'
+    i18n: 'yspinner'
+    url: '/YannZhao/YSpinner'
+    img: 'static/img/landing/spinner_icon.jpg'
+    desc: 'YSpinner is a customized View, which has a drop down list, and the item View in this list can be customized.'
 #
 #- name: 'Jalpc'
 #  i18n: 'jalpc'

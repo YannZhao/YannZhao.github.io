@@ -21,7 +21,8 @@
   "projects":{
     "my_projects": "我的项目",
     "overlapviewpager" : "overlapViewPager是一个简单的自定义ViewGroup，使用时像是一个左右能折叠到中间的ViewPager。",
-    "mvpvm" : "MvpVm-ViewModel 是一个一个安卓应用程序开发框架，基于MVP和ViewModel，目的是为了帮助开发者更容易的以一种结构化的方式开发应用。"
+    "mvpvm" : "MvpVm-ViewModel 是一个一个安卓应用程序开发框架，基于MVP和ViewModel，目的是为了帮助开发者更容易的以一种结构化的方式开发应用。",
+    "yspinner" : "自定义的Spinner，有一个title以及一个list；抽象了BaseAdapter，list的item样式可自由定义。"
   },
   "career":{
     "my_career": "职业生涯",
