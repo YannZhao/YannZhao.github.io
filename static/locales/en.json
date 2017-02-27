@@ -43,10 +43,6 @@
   },
   "blog":{
     "my_blog": "Yann's Blog"
-  },
-  "link":{
-    "link": "Link",
-    "view": "views"
   }
 
 }

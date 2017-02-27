@@ -1,12 +1,12 @@
 # links section data
-- last_name: Jia
-  first_name: Kun
-  desc: 'Support Blog Framework'
-  website: 'http://www.jack003.com/'
-  email: 'me@jack003.com'
-
-- last_name: Lucas
-  first_name: Schejtman
-  desc: 'Full Stack Developer.'
-  website: 'http://lucasschejtman.github.io'
-  email: 'lucas.schejtman@gmail.com'
+#- last_name: Jia
+#  first_name: Kun
+#  desc: 'Support Blog Framework'
+#  website: 'http://www.jack003.com/'
+#  email: 'me@jack003.com'
+#
+#- last_name: Lucas
+#  first_name: Schejtman
+#  desc: 'Full Stack Developer.'
+#  website: 'http://lucasschejtman.github.io'
+#  email: 'lucas.schejtman@gmail.com'
