@@ -37,19 +37,19 @@ tags: [android, MVP, ViewModel]
 ```java
 public interface BaseView {
 
-public void setTitle(int titleId);
-
-public void setTitle(String title);
-
-public void showToast(int resId);
-
-public void showToast(String msg);
-
-public void showWaitDialog(int resId);
-
-public void showWaitDialog(String message);
-
-....
+    public void setTitle(int titleId);
+    
+    public void setTitle(String title);
+    
+    public void showToast(int resId);
+    
+    public void showToast(String msg);
+    
+    public void showWaitDialog(int resId);
+    
+    public void showWaitDialog(String message);
+    
+    ....
 }
 ```
 
