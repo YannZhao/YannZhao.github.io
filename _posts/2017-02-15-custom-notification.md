@@ -3,7 +3,7 @@ layout: post
 title:  "自定义自动适配各手机系统的Notification"
 desc: "拥有三个page页的自定义View"
 keywords: "notification,system,android"
-date: 2016-2-15
+date: 2017-2-15
 categories: [Android]
 tags: [android, Notification, System]
 ---
